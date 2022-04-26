@@ -10,11 +10,11 @@ class NewVisitorTest(unittest.TestCase):
         self.brower = webdriver.Firefox()
         
     def tearDown(self):
-        self.brower.quit()
+        self.brower.quit() #close the webpage after functional test
     
     def test_can_start_a_list_and_retrieve_it_later(self):
         #Edith has heard about a cool new onlin to-do app. She goes to check out its homepage
-        self.brower.get('http://localhost:8000')
+        self.brower.get('http://localhost:9000')
 
         #She notices the page title and header mention to-do lists
         self.assertIn('To-Do',self.brower.title)
