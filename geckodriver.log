@@ -136,3 +136,129 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1650952632132	geckodriver	INFO	Listening on 127.0.0.1:56024
+1650952635198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileUhr3J5"
+1650952635691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileUhr3J5\\search.json.mozlz4", (void 0)))
+1650952638228	Marionette	INFO	Listening on port 56032
+1650952638380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650952639619	Marionette	INFO	Stopped listening on port 56032
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650952842437	geckodriver	INFO	Listening on 127.0.0.1:56121
+1650952845540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileMJBJQy"
+1650952845992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileMJBJQy\\search.json.mozlz4", (void 0)))
+1650952848172	Marionette	INFO	Listening on port 56129
+1650952848201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650952849560	Marionette	INFO	Stopped listening on port 56129
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1650952926855	geckodriver	INFO	Listening on 127.0.0.1:56193
+1650952929958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileQnJI0g"
+1650952930417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileQnJI0g\\search.json.mozlz4", (void 0)))
+1650952932482	Marionette	INFO	Listening on port 56201
+1650952932640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:9000"
+1650952933916	Marionette	INFO	Stopped listening on port 56201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1650952971620	geckodriver	INFO	Listening on 127.0.0.1:56248
+1650952974718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofile4nTyHs"
+1650952975177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofile4nTyHs\\search.json.mozlz4", (void 0)))
+1650952977275	Marionette	INFO	Listening on port 56256
+1650952977402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:9000"
+1650952987666	Marionette	INFO	Stopped listening on port 56256
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650953086439	geckodriver	INFO	Listening on 127.0.0.1:56331
+1650953089501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilelA7C9H"
+1650953089960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilelA7C9H\\search.json.mozlz4", (void 0)))
+1650953092028	Marionette	INFO	Listening on port 56340
+1650953092183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:9000"
+1650953102437	Marionette	INFO	Stopped listening on port 56340
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650953744242	geckodriver	INFO	Listening on 127.0.0.1:56611
+1650953747354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilefCGlTQ"
+1650953747808	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilefCGlTQ\\search.json.mozlz4", (void 0)))
+1650953750072	Marionette	INFO	Listening on port 56619
+1650953750521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:9000"
+1650953751764	Marionette	INFO	Stopped listening on port 56619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1650953860569	geckodriver	INFO	Listening on 127.0.0.1:56679
+1650953863638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilebBRYjt"
+1650953864118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilebBRYjt\\search.json.mozlz4", (void 0)))
+1650953866528	Marionette	INFO	Listening on port 56690
+1650953866834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:9000"
+1650953868065	Marionette	INFO	Stopped listening on port 56690
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1650953970294	geckodriver	INFO	Listening on 127.0.0.1:56740
+1650953973368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileEpL7Ji"
+1650953973828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileEpL7Ji\\search.json.mozlz4", (void 0)))
+1650953975900	Marionette	INFO	Listening on port 56749
+1650953976049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:9000"
+1650953977351	Marionette	INFO	Stopped listening on port 56749
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1650954133215	geckodriver	INFO	Listening on 127.0.0.1:56828
+1650954136322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofile5iWSD0"
+1650954136778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofile5iWSD0\\search.json.mozlz4", (void 0)))
+1650954138849	Marionette	INFO	Listening on port 56836
+1650954139017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:9000"
+1650954140326	Marionette	INFO	Stopped listening on port 56836
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650954183941	geckodriver	INFO	Listening on 127.0.0.1:56883
+1650954187047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileOPvcre"
+1650954187497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileOPvcre\\search.json.mozlz4", (void 0)))
+1650954189643	Marionette	INFO	Listening on port 56893
+1650954189719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:9000"
+1650954190994	Marionette	INFO	Stopped listening on port 56893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1650954332014	geckodriver	INFO	Listening on 127.0.0.1:56979
+1650954335079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilezqZgIT"
+1650954335542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilezqZgIT\\search.json.mozlz4", (void 0)))
+1650954337613	Marionette	INFO	Listening on port 56987
+1650954337755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:9000"
+1650954339024	Marionette	INFO	Stopped listening on port 56987
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
