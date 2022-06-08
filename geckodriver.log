@@ -333,3 +333,47 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "res
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1654693677465	geckodriver	INFO	Listening on 127.0.0.1:53767
+1654693680513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilePxqnKQ"
+1654693680934	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofilePxqnKQ\\search.json.mozlz4", (void 0)))
+1654693682587	Marionette	INFO	Listening on port 53794
+Read port: 53794
+1654693682619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53766"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53766"
+1654693684314	Marionette	INFO	Stopped listening on port 53794
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654693685014	geckodriver	INFO	Listening on 127.0.0.1:53816
+1654693688061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileJY4cpi"
+1654693688474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileJY4cpi\\search.json.mozlz4", (void 0)))
+1654693690094	Marionette	INFO	Listening on port 53844
+Read port: 53844
+1654693690170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53766"
+1654693690945	Marionette	INFO	Stopped listening on port 53844
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654693691627	geckodriver	INFO	Listening on 127.0.0.1:53868
+1654693694693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileg4jWR4"
+1654693695104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\16030\\AppData\\Local\\Temp\\rust_mozprofileg4jWR4\\search.json.mozlz4", (void 0)))
+1654693696659	Marionette	INFO	Listening on port 53896
+Read port: 53896
+1654693696777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53766"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:53766"
+1654693698068	Marionette	INFO	Stopped listening on port 53896
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
